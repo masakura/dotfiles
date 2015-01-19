@@ -19,4 +19,5 @@ if [ -f "$EMACS_COCOA" ]; then
 fi
 
 alias ls="ls -G"
+alias subl='/Applications/Sublime\ Text.app/Contents/MacOS/Sublime\ Text'
 
